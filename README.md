@@ -38,7 +38,7 @@ Microsoft Excel (optional, for viewing/editing dataset)
 
 Download both files (.pbix and .xlsx).
 ## Data 1: https://github.com/skhade88/SALES-PERFORMANCE-ANALYSIS/blob/main/Details.csv
-## Data 2:
+## Data 2: https://github.com/skhade88/SALES-PERFORMANCE-ANALYSIS/blob/main/Orders.csv
 ## Dashboard : 
 ## Image : 
 
